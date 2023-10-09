@@ -25,4 +25,4 @@ If you are using Visual Studio Code (or VSCodium) you can add to the `preference
 ```
 
 ## Infrastructure
-The deployed in
+The deployed infrastructure consist in a dummy Lambda and an S3 bucket 
